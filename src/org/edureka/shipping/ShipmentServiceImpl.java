@@ -17,6 +17,7 @@ public class ShipmentServiceImpl implements IShipment {
 	@Override
 	public boolean getShipment() {
 		// TODO Auto-generated method stub
+		// WELL SERVICE
 		return false;
 	}
 
