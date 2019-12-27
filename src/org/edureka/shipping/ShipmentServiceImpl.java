@@ -18,6 +18,7 @@ public class ShipmentServiceImpl implements IShipment {
 	public boolean getShipment() {
 		// TODO Auto-generated method stub
 		// WELL SERVICE
+        // WELL MEMORY
 		return false;
 	}
 
